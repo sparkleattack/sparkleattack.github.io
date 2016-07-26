@@ -1,9 +1,9 @@
 ---
 layout: about
 navigation_title: About
-title: About Lucas Gatsas
+title: About Geraldy
 permalink: /about/
 ---
 
-
+I am a person
 
